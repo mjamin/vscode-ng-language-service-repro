@@ -1,0 +1,1 @@
+export { BarModule } from './bar.module';
